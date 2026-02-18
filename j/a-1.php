@@ -8,7 +8,7 @@
 
 <body>
 <h1>66010914031ธนโชติ วงศ์ดี (กาย)</h1>
-<img src = "1.png" height="350">
+<img src = "1.jpg" height="350">
 
 
 </body>
